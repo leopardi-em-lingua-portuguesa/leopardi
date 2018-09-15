@@ -1,4 +1,5 @@
 ---
+title: Artigos
 layout: page
 ---
 
