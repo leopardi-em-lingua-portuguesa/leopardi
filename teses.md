@@ -1,4 +1,5 @@
 ---
+title: Teses
 layout: page
 ---
 
