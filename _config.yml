@@ -10,8 +10,8 @@ collections:
     output: true
 markdown: kramdown
 baseurl: "/leopardi"
-author: Andréia Guerini / Avelar Fortunato /
-email: 
+author: Andréia Guerini / Avelar Fortunato / Ingrid
+email:
 description: Grupo de estudos em Leopardi em Lígua Portuguesa
 exclude:
 - README.md
