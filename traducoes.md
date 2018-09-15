@@ -1,5 +1,5 @@
 ---
-title: traducoes
+title: Traducoes
 layout: page
 ---
 
