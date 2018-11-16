@@ -77,6 +77,8 @@ Palavras-chave: Giacomo Leopardi, tradução, paratexto.
 
 Palavras-chave: Giacomo Leopardi. Imprensa Brasileira. Tradução Cultural. História da tradução.
 
+
+
 Obs: Em breve disponível pdf.
     </p>
     <p>
