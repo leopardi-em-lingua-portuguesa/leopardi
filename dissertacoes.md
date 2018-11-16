@@ -59,7 +59,7 @@ Palavras-chave: Giacomo Leopardi, tradução, paratexto.
     <dd>Rosario Lázaro Igoa</dd>
 
     <dt>Título:</dt>
-    <dd> GIACOMO LEOPARDI NA IMPRENSA BRASILEIRA DO SÉCULO XX (1901 A 1930): TRADUÇÃO CULTURAL </em></dd>
+    <dd> GIACOMO LEOPARDI NA IMPRENSA BRASILEIRA DO SÉCULO XX (1901 A 1930): TRADUÇÃO CULTURAL </dd>
 
     <dt>Ano:</dt>
     <dd> 2018 </dd>
