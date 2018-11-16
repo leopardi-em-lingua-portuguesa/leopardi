@@ -23,7 +23,7 @@ Dissertações
     <dd>Andréia Guerini</dd>
 
     <dt>Título:</dt>
-    <dd> TRADUÇÃO COMENTADA DO DISCORSO SOPRA MOSCO DE GIACOMO LEOPARDI </em></dd>
+    <dd> TRADUÇÃO COMENTADA DO DISCORSO SOPRA MOSCO DE GIACOMO LEOPARDI </dd>
 
     <dt>Ano:</dt>
     <dd> 2015 </dd>
