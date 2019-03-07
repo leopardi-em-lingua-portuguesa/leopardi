@@ -24,6 +24,6 @@ layout: page
     <dd class="break-line">Faculty of Humanities Theses</dd>
   </dl>
   <p>
-    <a class="btn" href="/uploads/Artigo%20Fernando%20Pessoa.pdf">» Ver a Tese</a>
+    <a class="btn" href="https://manage.siteleaf.com/api/v2/sites/5b91985989ac6670849698e8/source/_uploads/Artigo%20Fernando%20Pessoa.pdf?download">» Ver a Dissertação</a>
   </p>
 </div>
