@@ -11,3 +11,4 @@ bin
 vendor
 .asset-cache
 gemfile
+Gemfile.lock
