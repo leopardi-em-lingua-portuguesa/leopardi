@@ -6,6 +6,7 @@ layout: page
 <h2 class="page-tile">
   Livros
 </h2>
+
 <ul class="publications-book-cover">
   <li class="publications-item">
     <a href="pdf/homens-e-livros.pdf" target="_blank">

@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 markdown: kramdown
-baseurl: "/leopardi"
+baseurl: "https://leopardiemlinguaportuguesa.cce.ufsc.br"
 author: Andréia Guerini / Avelar Fortunato / Ingrid
-email: 
+email:
 description: Grupo de estudos em Leopardi em Lígua Portuguesa
 exclude:
 - README.md

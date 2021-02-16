@@ -9,5 +9,7 @@ Traduções
 
 <p>
 Zibaldone em português:  
-[www.zibaldone.cce.ufsc.br](http://www.zibaldone.cce.ufsc.br)
+<a herf="http://www.zibaldone.cce.ufsc.br" target="_blank">
+  http://www.zibaldone.cce.ufsc.br
+</a>
 </p>
