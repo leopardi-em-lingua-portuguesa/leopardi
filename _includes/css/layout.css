@@ -75,6 +75,10 @@ footer {
   background: #9D1C1F;
   display: block;
 }
+.navegation-link--sub-item {
+  padding-left: 20px !important;
+  margin-top: -8px !important
+}
 /* #go to top*/
 .go-top {
   background-position: 0 -40px;
@@ -139,7 +143,7 @@ footer {
 
 /* #Map */
 .map-legend {
-  font-size: 0.6em;
+  font-size: 0.8em;
   font-weight: bold;
   margin: -5px 0;
   display: block;
@@ -165,8 +169,8 @@ footer {
 
 /* #footer */
 .footer {
-  height: 50px;
-  margin: -100px auto 50px auto;
+  height: 100px;
+  margin: -130px auto 50px auto;
   max-width: 940px;
   padding-top: 10px;
   text-align: center;

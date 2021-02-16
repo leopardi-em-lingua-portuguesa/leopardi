@@ -7,10 +7,16 @@ layout: page
   Livros
 </h2>
 
-<ul class="publications-book-cover">
-  <li class="publications-item">
+
+<div class="article-list-wrap article-list-wrap-active radius">
+  <dl>
+    <dt class="break-line">
+      Giacomo Leopardi - Carlos M. Azeredo. 1902
+    </dt>
+    <dd class="break-line">Livro Digitalizado sem Link</dd>
+    <br>
     <a href="pdf/homens-e-livros.pdf" target="_blank">
-      <img src="img/homens_e_livros.png" alt="Livro Homens e Livros, ver PDF">
-    </a>
-  </li>
-</ul>
+      <img style="width:200px;" src="img/homens_e_livros.png" alt="Livro Homens e Livros, ver PDF">
+    </a>  
+  </dl>
+</div>
