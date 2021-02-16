@@ -10,3 +10,4 @@ bin
 .bundle
 vendor
 .asset-cache
+gemfile
