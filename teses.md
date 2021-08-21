@@ -15,6 +15,83 @@ layout: page
   <dl class="article-list-infos">
     <dt>Título:
     <br>
+    Cartas de Roma (1822-1823): Tradução comentada das missivas de Giacomo Leopardi para o português
+    </dt>
+
+    <dt>Autora:</dt>
+    <dd>Adriana Aikawa da Silveira Andrade</dd>
+
+    <dt>Orientador:</dt>
+    <dd>Prof. ª Dr. ª Andréia Guerini</dd>
+    <dd>Prof.ª Dr.ª Lucia Strappini</dd>
+
+    <dt>Ano:</dt>
+    <dd>2015</dd>
+
+    <dt>Programa:</dt>
+    <dd>Pós-Graduação em Estudos da Tradução</dd>
+
+    <dt>Instituição:</dt>
+    <dd>Universidade Federal de Santa Catarina</dd>
+  </dl>
+  <div class="article-list-abstract">
+    <b>Resumo: </b>
+    <p>
+      Esta tese consiste na tradução comentada para o português das missivas
+      escritas por Giacomo Leopardi (1798-1837) em sua primeira estadia
+      romana, as chamadas “Cartas de Roma” (1822-1823). O trabalho inicia
+      com uma apresentação das principais edições e coletâneas existentes do
+      epistolário leopardiano e com um panorama geral das cartas. Analisa,
+      em seguida, a experiência romana de Leopardi e o corpus da tradução.
+      Com base em reflexões sobre leitura, língua, escrita e tradução,
+      desenvolvidas pelo próprio Leopardi a partir de sua experiência de
+      escritor e tradutor, a tese discute os problemas enfrentados e as soluções
+      encontradas no processo tradutório, numa perspectiva voltada ao texto
+      leopardiano. Palavras-chave: Literatura italiana. Leopardi. Epistolário. Tradução.
+    </p>
+    <p>
+      <a class="btn" href="https://tede.ufsc.br/teses/PGET0267-T.pdf" target="_blank">» Acessar</a>
+    </p>
+  </div>
+</div>
+
+<div class="article-list-wrap radius">
+  <dl class="article-list-infos">
+    <dt>Título:
+    <br>
+    A recriação da prosa poética de Leopardi: uma proposta de retradução dos <em>Pensieri</em>
+    </dt>
+
+    <dt>Autora:</dt>
+    <dd>Andréia Riconi</dd>
+
+    <dt>Orientador:</dt>
+    <dd>Prof. ª Dr. ª Andréia Guerini</dd>
+
+    <dt>Ano:</dt>
+    <dd>2018</dd>
+
+    <dt>Programa:</dt>
+    <dd>Pós-Graduação em Estudos da Tradução</dd>
+
+    <dt>Instituição:</dt>
+    <dd>Universidade Federal de Santa Catarina</dd>
+  </dl>
+  <div class="article-list-abstract">
+    <b>Resumo: </b>
+    <p>
+      Esta tese tem como objetivo principal refletir sobre minha proposta de (re)tradução da obra Pensieri, de Giacomo Leopardi, que será acompanhada de notas e de comentários acerca de minha atividade tradutória. Desse modo, o presente trabalho se divide em três capítulos. No primeiro, traço um breve panorama acerca da trajetória de Leopardi como escritor, para então tratar especificamente da gênese de Pensieri e de como essa obra se insere no contexto do pensamento leopardiano. Ainda nessa etapa, discuto a questão da hibridização entre literatura e filosofia e trago uma amostra de como os Pensieri têm sido difundidos no cenário italiano e no exterior. No segundo capítulo, reflito sobre das características da obra de Leopardi que julgo mais marcantes e, por isso, são os nortes da minha tradução: a hipertextualidade, que trabalho a partir da ótica de Lévy (1993) e a prosa poética, discutida por meio das reflexões de Luísa Álvares (1995), Antonio Prete (2006) e Alfonso Berardinelli (2007). A partir disso, apresento também os aportes teóricos que embasam algumas de minhas escolhas tradutórias. Ao expor alguns dos pressupostos de Friedrich Schleiemarcher (2001), de Henri Meschonnic (2010) e de Antoine Berman (2012), discuto algumas das teorias de tradução que servem de norte para este projeto. Com base nessas premissas, no terceiro capítulo trago os comentários resultantes das pesquisas e reflexões mais importantes a respeito dos desafios encontrados na tradução desta obra. Esses desafios se situam em dois âmbitos: lexical, no qual discuto a aplicação particular de algumas palavras no discurso de Leopardi; e rítmico, refletindo acerca da fluência da escrita leopardiana e da peculiaridade da sintaxe empregada pelo autor. Concluo a tese retomando o percurso, apresentando os objetivos que foram alcançados, algumas limitações da pesquisa e também possíveis desdobramentos desse estudo.
+    </p>
+    <p>
+      <a class="btn" href="https://tede.ufsc.br/teses/PGET0267-T.pdf" target="_blank">» Acessar</a>
+    </p>
+  </div>
+</div>
+
+<div class="article-list-wrap radius">
+  <dl class="article-list-infos">
+    <dt>Título:
+    <br>
     A poética de Leopardi: Gênero e Tradução no <em>Zibaldone di Pensieri</em>
     </dt>
 
