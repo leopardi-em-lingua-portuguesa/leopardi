@@ -18,3 +18,7 @@
      -moz-border-radius: 10px;
           border-radius: 10px;
 }
+
+.margin-bottom {
+  margin-bottom: 32px;
+}

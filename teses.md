@@ -13,14 +13,16 @@ layout: page
 
 <div class="article-list-wrap radius">
   <dl class="article-list-infos">
+    <dt>Título:
+    <br>
+    A poética de Leopardi: Gênero e Tradução no <em>Zibaldone di Pensieri</em>
+    </dt>
+
     <dt>Autora:</dt>
     <dd>Andréia  Guerini</dd>
 
     <dt>Orientador:</dt>
     <dd>Prof. Dr. Walter Carlos Costa</dd>
-
-    <dt>Título:</dt>
-    <dd>A poética de Leopardi: Gênero e Tradução no <em>Zibaldone di Pensieri</em></dd>
 
     <dt>Ano:</dt>
     <dd>2001</dd>
@@ -46,14 +48,16 @@ layout: page
 
 <div class="article-list-wrap radius">
   <dl class="article-list-infos">
+    <dt>Título:
+    <br>
+    A poesia nos cursos de poesia nos Cursos de Estética de Hegel e no <em>Zibaldone de Leopardi</em>
+    </dt>
+
     <dt>Autor:</dt>
     <dd>Glaci Gurgacz</dd>
 
     <dt>Orientador:</dt>
     <dd>Profa. Dra. Andréia Guerini</dd>
-
-    <dt>Título:</dt>
-    <dd>A poesia nos cursos de poesia nos Cursos de Estética de Hegel e no <em>Zibaldone de Leopardi</em></dd>
 
     <dt>Ano:</dt>
     <dd>2001</dd>
@@ -78,14 +82,16 @@ layout: page
 
 <div class="article-list-wrap radius">
   <dl class="article-list-infos">
+    <dt>Título:
+    <br>
+    Fim do ethos antigo e o caso das ilusões: Giacomo Leopardi e a Modernidade
+    </dt>
+
     <dt>Autor:</dt>
     <dd>Fabio Rocha Teixeira</dd>
 
     <dt>Orientador:</dt>
     <dd>Profa. Dra. Olgaria Matos</dd>
-
-    <dt>Título:</dt>
-    <dd>Fim do ethos antigo e o caso das ilusões: Giacomo Leopardi e a Modernidade</dd>
 
     <dt>Ano:</dt>
     <dd>2013</dd>
@@ -110,14 +116,17 @@ layout: page
 
 <div class="article-list-wrap radius">
   <dl class="article-list-infos">
+    <dt>
+    Título:
+    <br>
+    Língua, literatura e tradução: tríade da Bildung leopardiana
+    </dt>
+
     <dt>Autora:</dt>
     <dd>Gisele Batista da Silva</dd>
 
     <dt>Orientador:</dt>
     <dd>Prof. Dr. Andrea Giuseppe Lombardi</dd>
-
-    <dt>Título:</dt>
-    <dd>Língua, literatura e tradução: tríade da Bildung leopardiana</dd>
 
     <dt>Ano:</dt>
     <dd>2016</dd>
@@ -142,14 +151,16 @@ layout: page
 
 <div class="article-list-wrap radius">
   <dl class="article-list-infos">
+    <dt>Título:
+    <br>
+    Prof. Dr. Gustavo Rubim</dt>
+
+
     <dt>Autor:</dt>
     <dd>Andrea Ragusa</dd>
 
     <dt>Orientador:</dt>
     <dd>Como exilados de um céu distante Antero de Quental e Giacomo Leopardi na 'modernidade antimoderna'</dd>
-
-    <dt>Título:</dt>
-    <dd>Prof. Dr. Gustavo Rubim</dd>
 
     <dt>Ano:</dt>
     <dd>2016</dd>

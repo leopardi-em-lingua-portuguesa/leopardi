@@ -1,11 +1,21 @@
 ---
-title: Jornais e Revistas
+title: Revistas
 layout: page
 ---
 
 <h2 class="page-tile">
-  Jornais e Revistas
+  Revistas
 </h2>
+
+<div class="article-list-wrap article-list-wrap-active radius">
+  <dl>
+    <dt class="break-line">Appunti Leopardiani</dt>
+  </dl>
+  <p>
+    <a class="btn" href="http://www.appuntileopardiani.cce.ufsc.br" target="_blank">» Acessar a tradução</a>
+  </p>
+</div>
+
 <div class="article-list-wrap article-list-wrap-active radius">
   <dl>
     <dt class="break-line">La poesia italiana. Manzoni-Carrer-Leopardi.</dt>
